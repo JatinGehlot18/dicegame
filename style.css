@@ -1,0 +1,33 @@
+body{
+  background-color: #1a508b;
+  margin: 0;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Lobster', cursive;
+  color: #80ffdb;
+  margin: 3% auto;
+  font-size: 900%;
+}
+
+h3{
+  font-size: 300%;
+  color: #80ffdb;
+}
+
+img{
+  height: 50%;
+  width: 50%;
+}
+
+footer{
+  background-color: #1a508b;
+  color: #fff;
+}
+
+.dice{
+  height: 400px;
+  width: 400px;
+  display: inline-block;
+}
